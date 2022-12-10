@@ -1,0 +1,49 @@
+table{
+  /* width: 50vw; */
+  /* height: 90vh; */
+  background-color: orange;
+  box-shadow: 0.01rem 0.2rem 0.5rem 0.5rem rgba(0, 0, 0, 0.4);
+  background: linear-gradient(to right,#f64f59,#c471ed,#12c2e9);
+
+  margin: auto;
+  border: 1px solid black;
+}
+
+
+
+#add:focus{
+  background-color: green;
+}
+
+input{
+  margin-left: 15vw;
+}
+
+#deleteButton{
+  width: 8vw;
+  height: 5vh;
+  margin-left: 10vw;
+  
+}
+
+#deleteButton:focus{
+  background-color: blue;
+}
+#editButton{
+  width: 8vw;
+  height: 5vh;
+  margin-left: 10vw;
+
+}
+
+
+#editButton:focus{
+  background-color: blue;
+
+}
+
+#h1hello{
+  margin-left: 20vw;
+  /* border: 1px solid black; */
+}
+
